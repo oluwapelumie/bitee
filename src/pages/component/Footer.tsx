@@ -16,7 +16,7 @@ export default function Footer() {
                 color:"black"
             }}
         >
-            <Container >
+            <Container  >
                     <Grid container p={2} justifyContent="center" xs={12} >
                         <Grid container justifyContent={'center'} xs={10} spacing={1}  >
                         <Grid item>
